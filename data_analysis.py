@@ -7,8 +7,7 @@ for year in range(0,62):
     stat_list_temp = []
     for stat in range(6,20):
 
-        try:
-            
+        try:    
             mvp_winner_stat = float(players_data[year][0][stat])
             second_place_stat = float(players_data[year][1][stat])
             third_place_stat = float(players_data[year][2][stat])
