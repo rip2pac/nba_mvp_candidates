@@ -58,5 +58,3 @@ for year_count in range(0,62) :
 
         except:
                 pass
-
-
