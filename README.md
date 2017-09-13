@@ -2,4 +2,4 @@
 
 ## *** This project is still in development *** 
 
-Predicting NBA regular season MVP based on player statistics. 
+This project predicts regular season NBA MVP based on the past MVP candidates' statistical common factors. 
